@@ -1,0 +1,23 @@
+.Welcome-msg {
+  background-color: hsl(116, 74%, 40%);
+  columns: white;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  font-size: 2em;
+}
+
+.deny-msg {
+  background-color: hsl(0, 87%, 50%);
+  columns: white;
+  font-size: 2em;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  display: inline-block;
+}
+body {
+  background-color: lightblue;
+  text-align: center;
+}
